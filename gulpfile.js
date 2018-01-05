@@ -1,7 +1,7 @@
 /*
        File: gulpfile.js
-       Author: Ashish Chopra
-       Updated on: 21 may, 2016
+       Author: Pano Papadatos
+       Updated on: 5 Jan, 2018
        -----------------------------------------
  
        gulpfile.js is a build automation script for chrome extension projects.

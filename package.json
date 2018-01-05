@@ -1,7 +1,7 @@
 {
-  "name": "chrome-extension-seed",
+  "name": "google-hangouts-show-unread-in-tab-title",
   "version": "1.0.0",
-  "description": "A scaffolded starter project to setup chrome extension development environment in Gulp",
+  "description": "This is a Chrome Extension that adds the number of unread hangouts conversations to start of the tab name (Assuming hangouts.google.com)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -18,9 +18,10 @@
     "store",
     "apps",
     "Google",
-    "Chrome"
+    "Hangouts",
+    "Tab"
   ],
-  "author": "Ashish Chopra",
+  "author": "Pano Papadatos",
   "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.1",

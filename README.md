@@ -1,17 +1,18 @@
-# chrome-extension-seed
-This is a starter project scaffolded for setting up Google Chrome extension development enviromment built with Gulp.
+# google-hangouts-show-unread-in-tab-title
+This is a Chrome Extension that adds the number of unread hangouts conversations to start of the tab name (Assuming hangouts.google.com)
 
-# How to use?
+This extension was made using [this boilerplate](https://github.com/ashish-chopra/chrome-extension-seed.git)
 
-Run the following commands:
+Want to contribute? Build the application like so
 
 1. Clone the repo:
     
-        git clone https://github.com/ashish-chopra/chrome-extension-seed.git
+        git clone
 
-2. Move inside root folder `chrome-extension-seed`  and run:
+2. Move inside root folder and run:
     
         npm install
+        bower install
 
 3. Use following commands to run development lifecyle events:
 
